@@ -57,13 +57,12 @@ foundations of this figure's behaviour.
 
 
 The hitherto regarded manuscripts
-=================================
+---------------------------------
 
 The[#]_ vulgate of the Bca was edited several times independently and in combination with Prajñākaramati's *Bca-pañjikā*:
 
 
-Minaev 1889
------------
+**Minaev 1889**
 
 The first edition of the *mūla* was created by Ivan Pavlovič Minaev (1840-90)[#]_
 in the year 1889 for the "Memories of the Eastern Section of the Imperial Russian Archaeological Society"[#]_.
@@ -104,8 +103,7 @@ The third manuscript which he had for his disposal (M) was of private property[#
    (*nepālikasaṃvat* starts October 20th 879 A.D., cf. Lienhard/Manandhar 1988, p. XXVIII).
 
 
-Śāstrī 1894
------------
+**Śāstrī 1894**
 
 The second time the text was edited by Haraprasāda Śāstrī (1853-1931)[#]_ in 1894.
 Unfortunately, no information about the regarded material is given in this contribution.
@@ -125,8 +123,7 @@ and so it could be supposed that this really is the piece, which Śāstrī refer
 .. [#] Mitra 1882, p. 47. These Hodgson donations appear again in Kāvyatīrtha 1904, p. 243 sq. (B. 42 on p. 251). 
 
 
-La Vallée Poussin 1898 and 1901-14
-----------------------------------
+**La Vallée Poussin 1898 and 1901-14**
 
 Three manuscripts of Prajñākaramati's commentary on the Bca are recorded in the catalogue of the
 Government Collection of Sanskrit manuscripts in the stocks of the Asiatic Society of Bengal:[#]_
@@ -236,8 +233,7 @@ Even if this does not match exactly, these items are presumably these two descri
    but already in 1852 to what has been the Bibliotheque Impériale (cf. Colas 1986, p. 285). 
 
 
-Bhattacharya and Vaidya 1960
-----------------------------
+**Bhattacharya and Vaidya 1960**
 
 In they year 1960 Vidhushekhara Bhattacarya edited the *mūla* next to its Tibetan translation again for the *Bibliotheca Indica*,
 and in the same year Paraśurām Lakṣman Vaidya (1891-1978)[#]_ edited again the *Pañjikā* together with the Bca for the *Buddhist Sanskrit Text* series.
@@ -257,8 +253,7 @@ That's also true for the bulk of the partially recent Indian editions which are 
    (1,2 is a Mālabhārinī with defect in b, and 1,35 seems to be completely damaged).
 
 
-Summary
--------
+**Summary**
 
 To characterize the whole group of regarded manuscripts,
 except for the palm leaf manuscripts belonging to the Government Collection of the Asiatic Societys of Bengal,
@@ -280,12 +275,11 @@ it seems that only Paris 78 is a transcript, and that the others are original on
 
 
 Unregarded manuscripts
-======================
+----------------------
 
-Original pieces
----------------
+**Original pieces**
 
-**Cambridge**
+*Cambridge*
 
 A[#]_ paper manuscript of the Bca *mūla*, written in Devanagari is kept in the University Library in Cambridge:
 
@@ -301,7 +295,7 @@ A[#]_ paper manuscript of the Bca *mūla*, written in Devanagari is kept in the 
    cf. also Weber 1877, p. 526 sq.
 
 
-**Kolkata**
+*Kolkata*
 
 There is another old palm-leaf manuscript written in Bengali listed in the catalogue of the Government Collection of the Asiatic Society of Bengal,
 nevertheless - as far as I can tell - it couldn't be found stated nowhere that its text has flown into the previous editions:
@@ -313,7 +307,7 @@ nevertheless - as far as I can tell - it couldn't be found stated nowhere that i
 .. [#] Śāstrī 1917, p. 21. On that piece see Dimitrov 2002, p. 36, fn. 36.
 
 
-**Kyōto**
+*Kyōto*
 
 The Kyōto University owns two other pieces:[#]_
 
@@ -326,7 +320,7 @@ The Kyōto University owns two other pieces:[#]_
    This collection was assembled by Ryōzaburō Sakaki (1872-1946) in Nepal, cf. p. I sq.
 
 
-**Tōkyō**
+*Tōkyō*
 
 The Tōkyō University Library owns five more pieces:[#]_
 
@@ -355,7 +349,7 @@ The Tōkyō University Library owns five more pieces:[#]_
    together with J. Takakusu under the permission of Maharaja Chandra Shumsher, cf. Thapa 2004.
 
 
-**Kathmandu, NAK**
+*Kathmandu, NAK*
 
 The National Archives in Kathmandu (Rāṣṭriyābhilekhālaya, NAK) stores several pieces,
 and all of them have been made available on microfilm by the Nepal-German Manuscript Preservation Project (NGMPP)[#]_.
@@ -391,7 +385,7 @@ acc             fol reel
    Detailed infos on the history of the NAK could be found in Dimitrov 2007, p. 117 sq., esp. fn. 16.
 
 
-**Kathmandu, Kaiser Library**
+*Kathmandu, Kaiser Library*
 
 The Kaiser library in Kathmandu owns two manuscripts of the Bca, and these are also available through NGMPP microfilms:[#]_
 
@@ -405,7 +399,7 @@ The Kaiser library in Kathmandu owns two manuscripts of the Bca, and these are a
 .. [#] Photographies of this collection are stored on the NGMPP microfilm reel nos. C 1/1 - C 124/6, cf. Dimitrov/Tamot 2007, p. 31.
 
 
-**Manuscripts from Tibet**
+*Manuscripts from Tibet*
 
 Ye 2009 lists 7 precious old Bca manuscripts which have survived in Tibet:[#]_
 
@@ -534,7 +528,7 @@ H 1086/5        Dn  61
 
 
 References
-==========
+----------
 
 Bandurski 1994
 	Frank Bandurski: *Übersicht über die in Göttinger Sammlungen der von Rāhula Sāṅkṛtyāyana in Tibet aufgefundenen
