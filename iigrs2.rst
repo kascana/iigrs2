@@ -8,31 +8,31 @@ Daniel Stender
 Doctoral student, University of Vienna
 
 
-The[#]_ *Bodhicaryāvatāra* (henceforth "Bca") is the
+The[1]_ *Bodhicaryāvatāra* (henceforth "Bca") is the
 "passover (*avatāra*, ~ introduction) into the course (*caryā*) of enlightment (*bodhi*)",
-which would mean "introduction into the course *that leads* to enlightment"[#]_.
-The text[#]_ is very popular among Buddhists, was translated several times[#]_,
+which would mean "introduction into the course *that leads* to enlightment"[2]_.
+The text[3]_ is very popular among Buddhists, was translated several times[4]_,
 and is well known and much published on by Mahāyāna scholars and teachers.
 In his work the Buddhist monk and Nālandā scholar Śāntideva exposes the
 transformation of the person leading through the stages of development of the
 Bodhisattva according to the teachings and from an insight point of view.
 In the beginning the text deals with the Bodhicitta, the "thought of awakening",
 which is to be raised and then to be attended by the adept.
-The author then goes on thematizing the stages of the "sixfold perfections" (*ṣaṭpāramitā*)[#]_
+The author then goes on thematizing the stages of the "sixfold perfections" (*ṣaṭpāramitā*)[5]_
 while as a climax he reveals the higher truth of the real nature of things being "empty" (*śunya*) in the *prajñāpāramitā* chapter,
-which makes the work clearly belonging to the Madhyamaka school of Buddhist philosophy[#]_.
+which makes the work clearly belonging to the Madhyamaka school of Buddhist philosophy[6]_.
 The work is beautiful classical Sanskrit poetry, and even if it might not participate in being of a higher
 stage of poetical technique like other kāvyas, it is truly a sophisticated and remarkable piece of Buddhist literature.
 Furthermore, it is an important text for the understanding of the relation between Madhyamaka
 teachings and the Bodhisattva ideal, and to see what is the philosophical resp. metaphysical
 foundations of this figure's behaviour.
 
-.. [#] Thanks to Dragomir Dimitrov and Peter Wyzlic for valueable pointers,
+.. [1] Thanks to Dragomir Dimitrov and Peter Wyzlic for valueable pointers,
    Andrey Klebanov for help reading the Russian,
    as much as to Gérard Colas and Christophe Vielle,
    and to all people who gave me precious scans of sometimes only barely available material.
 
-.. [#] In Tibetan the title "Bodhisattvacaryāvatāra" (*byaṅ chub sems dpa’i spyod pa la ‘jug pa* - sometimes
+.. [2] In Tibetan the title "Bodhisattvacaryāvatāra" (*byaṅ chub sems dpa’i spyod pa la ‘jug pa* - sometimes
    refered to as "Bsa" or "B(s)ca") appears next to "Bodhicaryāvatāra" (*byaṅ chub kyi spyod pa la ‘jug pa*).
    This has been claimed as being the original title of the poem: "Moreover it is more important, the full title of the
    poem is *Bodhisattvacaryāvatāra* (rather than the abbrivated form *Bodhicaryāvatāra*). This form is also supported by the
@@ -41,18 +41,18 @@ foundations of this figure's behaviour.
    But, that the longer title is to be found in the Mongolian is no argument, because it has been worked out by Weller in 1950
    that it depends on the Tibetan, where it seems the longer title originates for a reason not yet been shown.
 
-.. [#] In contrast its shorter, most probably earlier version,
+.. [3] In contrast its shorter, most probably earlier version,
    which has been survived in its paracanonical Tibetan translation and consists of 701.5 verses and 9 chapters including the *pariṇāmanā*,
    the Sanskrit "vulgate" counts 913 verses, cf. Saito 1993 and Dietz 1999 for details.
 
-.. [#] On the translations, cf. Gómez 1999, p. 330 sq.
+.. [4] On the translations, cf. Gómez 1999, p. 330 sq.
 
-.. [#] In difference to for example Candrakīrti, who represents the *daśapāramitā* system with the *Mādhyamakāvatāra*.
+.. [5] In difference to for example Candrakīrti, who represents the *daśapāramitā* system with the *Mādhyamakāvatāra*.
    That system adds *upāyakauśalya*, *praṇidhāna*, *bala* and *jñāna*
    to *dāna* (5,9-10 in the Bca), *śīlā* (5,11 sq.), *kṣānti* (chapter 6), *vīrya* (chapter 7),
    *dhyāna* (chapter 8), and *prajñāpāramitā* (chapter 9). On the systems, cf. Eimer 2006, p. 107 sq.
  
-.. [#] Cf. Seyfort Ruegg 1981, p. 82 sq., and Saito 1996.
+.. [6] Cf. Seyfort Ruegg 1981, p. 82 sq., and Saito 1996.
 
 
 
