@@ -27,10 +27,10 @@ Furthermore, it is an important text for the understanding of the relation betwe
 teachings and the Bodhisattva ideal, and to see what is the philosophical resp. metaphysical
 foundations of this figure's behaviour.
 
-.. [1] Thanks to Dragomir Dimitrov and Peter Wyzlic for valueable pointers,
+.. [1] Thanks to Dragomir Dimitrov and Peter Wyzlic for valuable pointers,
    Andrey Klebanov for help reading the Russian,
    as much as to Gérard Colas and Christophe Vielle,
-   and to all people who gave me precious scans of sometimes only barely available material.
+   and to all people who gave me precious scans of sometimes only barely available materials.
 
 .. [2] In Tibetan the title "Bodhisattvacaryāvatāra" (*byaṅ chub sems dpa’i spyod pa la ‘jug pa* - sometimes
    refered to as "Bsa" or "B(s)ca") appears next to "Bodhicaryāvatāra" (*byaṅ chub kyi spyod pa la ‘jug pa*).
