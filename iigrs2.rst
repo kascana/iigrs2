@@ -873,5 +873,3 @@ Yuyama 2000
 	Akira Yuyama: *Eugène Burnouf. The background to his research into the Lotus Sutra*.
 	Tokyo: Soka University, International Research Institute for Advanced Buddhology 2000
 	(Bibliotheca Philologica et Philosophica Buddhica; 3).
-
-Test
